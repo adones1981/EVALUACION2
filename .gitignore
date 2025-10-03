@@ -1,0 +1,17 @@
+# Python
+__pycache__/
+*.py[cod]
+*.sqlite3
+*.env
+*.log
+
+# Virtualenv
+venv/
+env/
+myvenv/
+
+# Archivos estáticos recopilados
+staticfiles/
+
+# VSCode
+.vscode/
